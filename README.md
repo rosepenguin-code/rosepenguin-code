@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F798EB&background=FFFEFF00&center=true&width=435&lines=Haro!+I'm+Ana+Leonor+Amaral+;aka+rosepenguin" alt="Typing SVG" />
 </a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F798EB&background=FFFEFF00&center=true&width=435&lines=Haro!+I'm+Ana+Leonor+Amaral+;aka+rosepenguin;%23%23+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+About+Me++I'm+Leonor+%E2%80%94+a+curious+mind+diving+into+tech%2C+especially+**cybersecurity**.+++Still+at+the+beginning+of+the+journey%2C+but+hungry+to+learn+and+eager+to+break+(ethical)+stuff.+%F0%9F%98%8E++---++%23%23+%F0%9F%9A%80+What+I'm+Aiming+For++-+Remote+work+where+I+can+use+my+brain+more+than+my+legs+%F0%9F%A7%A0+++-+Help+make+the+digital+world+a+little+safer+%F0%9F%94%90+++-+Prove+that+a+disability+doesn't+define+limits+%E2%80%94+I+do.++---++%23%23+%F0%9F%8E%AE+When+I'm+not+studying+or+debugging+life...++-+I+play+**League+of+Legends**+(cheaper+than+therapy+%F0%9F%92%80)+++-+I+paint+stuff+%E2%80%94+like%2C+actual+art%2C+not+just+walls+%F0%9F%8E%A8+++-+I+read+books+to+escape+reality+%F0%9F%93%9A+++-+And+sometimes+I+fight+with+code+until+it+listens+(or+I+cry)+%F0%9F%A4%96++---++%3E+_%22Doesn't+matter+how+slow+you+go+%E2%80%94+just+don't+stop.%22_++++%F0%9F%93%AB+Feel+free+to+reach+out+or+collaborate!" alt="Typing SVG" /></a>
 <!--
 **rosepenguin-code/rosepenguin-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

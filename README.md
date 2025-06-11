@@ -14,7 +14,7 @@ Still at the beginning of the journey, but hungry to learn and eager to break (e
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400" alt="Penguin Programming GIF" />
 </p>
 
 

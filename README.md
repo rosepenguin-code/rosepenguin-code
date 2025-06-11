@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F798EB&background=FFFEFF00&center=true&width=435&lines=Heya!+I'm+Leonor;Future+cyber+badass+%F0%9F%94%AA;Currently+leveling+up+skills..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F798EB&background=FFFEFF00&center=true&width=435&lines=Haro!+I'm+Leonor;Future+cyber+badass+%F0%9F%94%AA;Currently+leveling+up+skills..." alt="Typing SVG" />
 </a>
 
 ---
@@ -31,19 +31,3 @@ Still at the beginning of the journey, but hungry to learn and eager to break (e
 > _"Doesn't matter how slow you go — just don't stop."_  
 
 📫 Feel free to reach out or collaborate!
-
-
-<!--
-**rosepenguin-code/rosepenguin-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

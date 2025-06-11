@@ -13,6 +13,9 @@ I'm Leonor — a curious mind diving into tech, especially **cybersecurity**.
 Still at the beginning of the journey, but hungry to learn and eager to break (ethical) stuff. 😎
 
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
+</p>
 
 ## 🚀 What I'm Aiming For
 

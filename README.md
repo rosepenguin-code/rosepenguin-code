@@ -1,6 +1,7 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F798EB&background=FFFEFF00&center=true&width=435&lines=Haro!+I'm+Leonor;Future+cyber+badass+%F0%9F%94%AA;Currently+leveling+up+skills..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F798EB&background=FFFEFF00&center=true&width=435&lines=Haro!+I'm+Leonor;Future+cyber+badass+%F0%9F%94%AA;Currently+diving+into+HTML,+CSS,+and+JavaScript" alt="Typing SVG" />
 </a>
+
 
 ---
 
@@ -33,13 +34,13 @@ Still at the beginning of the journey, but hungry to learn and eager to break (e
 Here’s what I’m working with (or starting to learn):
 
 - **Frontend:**  
-  `HTML` ・ `CSS` ・ `JavaScript` ・ `Bootstrap`
+  `HTML` ・ `CSS` ・ `JavaScript` ・ `Bootstrap`・ `Ruby`
 
 - **Backend & Scripting:**  
   `Python`
 
 - **Cybersecurity Tools:**  
-  `Nmap` ・ `Wireshark` ・ `Kali Linux basics`
+  `Nmap` ・ `Wireshark` ・ `Kali Linux basics` ・ `BurpSuite`・ `Zaproxy`
 
 - **Extras:**  
   `Git & GitHub` ・ `VS Code` ・ `Linux basics` ・ `Canva`

@@ -16,9 +16,9 @@ Still at the beginning of the journey, but hungry to learn and eager to break (e
 
 ## 🚀 What I'm Aiming For
 
-- Remote work where I can use my brain more than my legs 🧠  
-- Help make the digital world a little safer 🔐  
-- Prove that a disability doesn't define limits — I do.
+- A remote place where I can use my brain more than my legs 🧠  
+- To contribute to a safer digital world 🔐  
+- To prove that a disabilities do not define limits — I do.
 
 ---
 

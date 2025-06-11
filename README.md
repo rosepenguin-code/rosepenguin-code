@@ -1,4 +1,6 @@
-https://readme-typing-svg.demolab.com/demo/?color=F798EB&background=FFFEFF00&center=true&lines=Haro!+I'm+Ana+Leonor+Amaral+;aka+rosepenguin
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F798EB&background=FFFEFF00&center=true&width=435&lines=Haro!+I'm+Ana+Leonor+Amaral+;aka+rosepenguin" alt="Typing SVG" />
+</a>
 
 <!--
 **rosepenguin-code/rosepenguin-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

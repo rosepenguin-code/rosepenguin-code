@@ -52,4 +52,14 @@ Here’s what I’m working with (or starting to learn):
 > _"Doesn't matter how slow you go — just don't stop."_  
 
 📫 Feel free to reach out or collaborate!
+## 🛠️ Tech Stack & Tools
+... (lista de ferramentas)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rosepenguin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak Stats" />
+</p>
 

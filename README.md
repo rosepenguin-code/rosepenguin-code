@@ -13,7 +13,8 @@ I'm Leonor — a curious mind diving into tech, especially **cybersecurity**.
 Still at the beginning of the journey, but hungry to learn and eager to break (ethical) stuff. 😎
 
 ---
-<img src="https://github.com/rosepenguin/rosepenguin/assets/yourusername/pixel-penguin-typing.gif" width="80" alt="Pixel Penguin Typing" />
+<img src="https://i.gifer.com/7efs.gif" width="60" alt="Waving Penguin" />
+
 
 
 

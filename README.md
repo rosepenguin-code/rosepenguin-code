@@ -28,6 +28,25 @@ Still at the beginning of the journey, but hungry to learn and eager to break (e
 
 ---
 
+## 🛠️ Tech Stack & Tools
+
+Here’s what I’m working with (or starting to learn):
+
+- **Frontend:**  
+  `HTML` ・ `CSS` ・ `JavaScript` ・ `Bootstrap`
+
+- **Backend & Scripting:**  
+  `Python`
+
+- **Cybersecurity Tools:**  
+  `Nmap` ・ `Wireshark` ・ `Kali Linux basics`
+
+- **Extras:**  
+  `Git & GitHub` ・ `VS Code` ・ `Linux basics` ・ `Canva`
+
+---
+
 > _"Doesn't matter how slow you go — just don't stop."_  
 
 📫 Feel free to reach out or collaborate!
+

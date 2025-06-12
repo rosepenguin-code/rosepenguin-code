@@ -3,7 +3,9 @@
 </a>
 <p align="center">
 
-
+<p align="center">
+  <img src="Calculate Artificial Intelligence GIF by Pudgy Penguins.gif" width="80" alt="Penguin typing" />
+</p>
 </p>
 
 

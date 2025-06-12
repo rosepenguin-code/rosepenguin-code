@@ -1,6 +1,9 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F798EB&background=FFFEFF00&center=true&width=600&lines=Haro!+I'm+Ana+Leonor+aka+rosepenguin;Future+cyber+badass+%F0%9F%94%AA;Currently+diving+into+HTML,+CSS,+and+JavaScript" alt="Typing SVG" />
 </a>
+<p align="center">
+  <img src="https://i.gifer.com/Vg4.gif" width="60" alt="Cute Penguin Typing" />
+</p>
 
 
 
@@ -13,9 +16,6 @@ I'm Leonor — a curious mind diving into tech, especially **cybersecurity**.
 Still at the beginning of the journey, but hungry to learn and eager to break (ethical) stuff. 😎
 
 ---
-<img src="https://i.gifer.com/7efs.gif" width="60" alt="Waving Penguin" />
-
-
 
 
 ## 🚀 What I'm Aiming For

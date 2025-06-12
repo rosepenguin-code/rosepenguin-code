@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F798EB&background=FFFEFF00&center=true&width=600&lines=Haro!+I'm+Ana+Leonor+aka+rosepenguin;Future+cyber+badass+%F0%9F%94%AA;Currently+diving+into+HTML,+CSS,+and+JavaScript" alt="Typing SVG" />
 </a>
 <p align="center">
- <p align="center">
-  <img src="https://i.gifer.com/Vg4.gif" width="60" alt="Cute Penguin Typing" />
-</p>
+
 
 </p>
 

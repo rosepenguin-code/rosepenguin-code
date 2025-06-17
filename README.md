@@ -9,6 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=saramchq&color=ff69b4&style=flat" alt="Profile Views" />
 </p>
 
+<font color="#EE82EE">
 ---
 
 ### 👩‍💻 About Me  
@@ -54,18 +55,10 @@ Git & GitHub ・ VS Code ・ Linux basics ・ Canva
 </p>
 
 ---
+<font color="#EE82EE">
 
 📫 Feel free to reach out or collaborate!  
 _"Doesn't matter how slow you go — just don't stop."_
 
 <!-- Emojis de fundo -->
 <p align="center">🌖🌗🌘🌑🌒🌓🌔</p>
-
----
-
-📫 **Feel free to reach out or collaborate!**  
-_"Doesn't matter how slow you go — just don't stop."_
-
-<!-- Emojis de fundo -->
-<p align="center">🌖🌗🌘🌑🌒🌓🌔</p>
-

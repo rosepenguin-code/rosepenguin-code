@@ -2,14 +2,17 @@
 <p align="center">🌖🌗🌘🌑🌒🌓🌔</p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F798EB&background=FFFEFF00&center=true&width=435&lines=Haro!+I'm+Leonor;Future+cyber+badass+%F0%9F%94%AA;Currently+leveling+up+skills..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F798EB&background=FFFEFF00&center=true&width=435&lines=Haro!+I%27m+Leonor;Future+cyber+badass+%F0%9F%94%AA;Currently+leveling+up+skills...%22%20alt=%22Typing%20SVG..." alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saramchq&color=ff69b4&style=flat" alt="Profile Views" />
 </p>
 
-<font color="#EE82EE">
+<p align="center">
+  <img src="https://i.postimg.cc/xdNWCYky/Copilot-20250617-143628.png" alt="Imagem" width="150"/>
+</p>
+
 ---
 
 ### 👩‍💻 About Me  

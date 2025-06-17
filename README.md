@@ -1,5 +1,5 @@
 <!-- Emojis de topo -->
-<p align="center">✨💻🎯🌱🚀</p>
+<p align="center">🌖🌗🌘🌑🌒🌓🌔</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F798EB&background=FFFEFF00&center=true&width=435&lines=Haro!+I'm+Leonor;Future+cyber+badass+%F0%9F%94%AA;Currently+leveling+up+skills..." alt="Typing SVG" />
@@ -59,7 +59,7 @@ Git & GitHub ・ VS Code ・ Linux basics ・ Canva
 _"Doesn't matter how slow you go — just don't stop."_
 
 <!-- Emojis de fundo -->
-<p align="center">💫🧠🛡️🎨🌐</p>
+<p align="center">🌖🌗🌘🌑🌒🌓🌔</p>
 
 ---
 

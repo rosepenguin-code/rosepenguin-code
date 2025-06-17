@@ -2,8 +2,18 @@
 <p align="center">🌖🌗🌘🌑🌒🌓🌔</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F798EB&background=FFFEFF00&center=true&width=600&lines=Haro!+I'm+Leonor;Future+cyber+badass+%F0%9F%94%AA;Currently+leveling+up+skills..." alt="Typing SVG" />
+  <img src="https://i.postimg.cc/D0MsjwHJ/Hello-Post-para-Instagram-45.png" alt="Hello Post" width="400" />
 </p>
+
+<hr style="border: 1px solid #F798EB; width: 60%; margin: 20px auto;" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F798EB&background=FFFEFF00&center=true&width=600&lines=Future+cyber+badass+%F0%9F%94%AA;Currently+leveling+up+skills..." alt="Typing SVG" />
+</p>
+
+
+
+
 
 
 

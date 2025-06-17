@@ -67,5 +67,5 @@ _"Doesn't matter how slow you go — just don't stop."_
 _"Doesn't matter how slow you go — just don't stop."_
 
 <!-- Emojis de fundo -->
-<p align="center">💫🧠🛡️🎨🌐</p>
+<p align="center">🌖🌗🌘🌑🌒🌓🌔</p>
 

@@ -12,8 +12,12 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/xdNWCYky/Copilot-20250617-143628.png" alt="Imagem" width="150"/>
+  <a href="https://postimg.cc/PvPXgH7d">
+    <img src="https://i.postimg.cc/sxJMZD9G/Chat-GPT-Image-17-de-jun-de-2025-15-19-32.png" alt="Chat-GPT Image" width="150"/>
+  </a>
 </p>
+
+
 
 ---
 
@@ -64,6 +68,14 @@ Git & GitHub ・ VS Code ・ Linux basics ・ Canva
 
 📫 Feel free to reach out or collaborate!  
 _"Doesn't matter how slow you go — just don't stop."_
+
+<p align="center">
+  <img src="https://i.postimg.cc/xdNWCYky/Copilot-20250617-143628.png" alt="Imagem" width="150"/>
+</p>
+
+
+
+
 
 <!-- Emojis de fundo -->
 <p align="center">🌖🌗🌘🌑🌒🌓🌔</p>

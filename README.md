@@ -66,12 +66,8 @@ Nmap ・ Wireshark ・ Kali Linux basics ・ BurpSuite ・ Zaproxy
 **Extras:**  
 Git & GitHub ・ VS Code ・ Linux basics ・ Canva  
 
----
 
-### 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=saramchq&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="GitHub Streak Stats"/>
-</p>
+
 
 ---
 <font color="#EE82EE">
